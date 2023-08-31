@@ -12,7 +12,8 @@ python -m pip install -r requirements.txt
 mv connect_cdk_stack.py connect_cdk/
 ```
 
-#### Update connect_cdk_stack.py with your parameter
+#### Update connect_cdk_stack.py 
+Fill your parameters of connect
 
 #### Deploying stack
 ```bash
