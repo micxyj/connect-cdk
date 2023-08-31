@@ -10,7 +10,7 @@ mkdir connect-cdk-example
 cd connect-cdk-example
 cdk init app --language python
 python -m pip install -r requirements.txt
-mv ../connect-cdk/connect_cdk_stack.py ./connect_cdk_example/
+mv ../connect-cdk/connect_cdk_stack.py ./connect_cdk_example/connect_cdk_example_stack.py
 ```
 
 #### Update connect_cdk_stack.py 
